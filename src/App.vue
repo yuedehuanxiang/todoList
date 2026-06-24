@@ -64,7 +64,9 @@ function loadTodos() {
     return [
       { id: 1, title: '学习 Vue3 组合式 API', done: true },
       { id: 2, title: '完成一个 TodoList 小项目', done: false },
-      { id: 3, title: '运行工程并检查页面效果', done: false }
+      { id: 3, title: '运行工程并检查页面效果', done: false },
+      { id: 4, title: '测试自动构建更新', done: true },
+      { id: 5, title: '部署到 GitHub Pages', done: false }
     ]
   }
 
