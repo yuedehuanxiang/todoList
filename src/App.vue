@@ -107,7 +107,7 @@ function clearCompleted() {
     <section class="todo-panel">
       <div class="panel-header">
         <div>
-          <p class="eyebrow">Vue3 TodoList</p>
+          <p class="eyebrow">Vue3 TodoList ✅</p>
           <h1>今日任务</h1>
         </div>
         <div class="progress-pill">{{ progressPercent }}%</div>
